@@ -1,5 +1,6 @@
 {
   "name": "firstbite",
+  "displayName": "First Bite",
   "version": "0.1.0",
   "description": "First Bite, the foodservice go-to-market platform, in Claude: find and research operators and their locations, work your CRM accounts, contacts, deals, samples and reminders, and run First Bite's playbooks for call notes, call follow-ups and new deals.",
   "author": {
@@ -7,6 +8,7 @@
     "url": "https://www.firstbite.io"
   },
   "homepage": "https://www.firstbite.io",
+  "repository": "https://github.com/TheLonesomeData/firstbite-claude-plugin",
   "license": "LicenseRef-FirstBite-Proprietary",
   "keywords": [
     "foodservice",
