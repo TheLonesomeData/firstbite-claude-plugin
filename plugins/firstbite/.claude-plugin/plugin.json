@@ -1,0 +1,22 @@
+{
+  "name": "firstbite",
+  "version": "0.1.0",
+  "description": "First Bite, the foodservice go-to-market platform, in Claude: find and research operators and their locations, work your CRM accounts, contacts, deals, samples and reminders, and run First Bite's playbooks for call notes, call follow-ups and new deals.",
+  "author": {
+    "name": "First Bite",
+    "url": "https://www.firstbite.io"
+  },
+  "homepage": "https://www.firstbite.io",
+  "license": "LicenseRef-FirstBite-Proprietary",
+  "keywords": [
+    "foodservice",
+    "operator data",
+    "prospecting",
+    "crm",
+    "sales"
+  ],
+  "documentationUrl": "https://help.firstbite.io",
+  "supportUrl": "mailto:support@firstbite.io",
+  "privacyPolicyUrl": "https://app.firstbite.io/privacy-policy",
+  "termsOfServiceUrl": "https://app.firstbite.io/terms-of-use"
+}
